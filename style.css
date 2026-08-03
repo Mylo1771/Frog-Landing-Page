@@ -6,7 +6,7 @@ body {
 
 a {
     text-decoration: none;
-    color: black;
+    color: #D16F7A;
 }
 
 .frog-image {
@@ -36,6 +36,9 @@ a {
     justify-content: center;
     align-items: center;
     padding-left: 200px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #D16F7A;
 }
 
 .header-container ul {
@@ -43,6 +46,9 @@ a {
     list-style-type: none;
     gap: 25px;
     padding-right: 200px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #D16F7A;
 }
 
 /* Header Section */
